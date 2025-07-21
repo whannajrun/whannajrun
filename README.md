@@ -1,6 +1,6 @@
 ### Hello, World! 👋💖
 
-- 🎉 Currently a passionate fourth-year computer science student 
-- 💻 Interested on various AI-Fields such as machine learning, deep learning, and data science
-- 📚 Focusing on Natural Language Processing and Image Processing research for the next 6 months 
+- 🎉 A computer science fresh graduate
+- 💻 Interested on various AI-Fields such as data science, machine learning, deep learning, and generative AI (newest)
+- 📚 Focusing on developing Generative AI for vaious cases!
 - 👯 Open for work and collaboration
