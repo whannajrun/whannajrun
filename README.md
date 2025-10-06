@@ -22,17 +22,17 @@
 
 ## 🧠 What I’m Into
 
-- **Large Language Models & Transformer Spectrum:** BERT / RoBERTa (encoder), GPT‑style (decoder), T5 / BART (encoder–decoder), distilled / compact models (DistilBERT, ALBERT). Currently learning parameter‑efficient methods (prompting basics) and simple RAG setups (testing chunk sizes + embedding choices).
-- **Traditional Machine Learning Foundations:** SVM, KNN, logistic regression, decision trees, Random Forest. I still use these for baselines before moving to deep models.
+- **Large Language Models & Transformer Spectrum:** BERT / RoBERTa (encoder), GPT (decoder), T5 / BART (encoder–decoder), distilled / compact models (DistilBERT, ALBERT). Currently learning parameter‑efficient methods (prompting) and simple RAG setups (testing chunk sizes + embedding choices).
+- **Traditional Machine Learning Foundations:** SVM, KNN, regression (Linear, Multiple, Logistic), decision trees, random Forest, etc. I still use these for baselines before moving to deep models.
 - **Deep Learning Practice:**  
-  - Computer Vision: image classification tasks, augmentations, transfer learning on data  
-  - CNN progression
+  - Computer Vision: image classification tasks (CNN), object detection (YOLO), augmentations (Keras), annotations (Roboflow), transfer learning on data  
+  - Neural Network architecture in general
   - Sequence Modeling: RNN, LSTM, BiLSTM, GRU, Bidirectional GRU comparisons 
-  - Transfer Learning: freezing vs partial fine-tuning decisions on datasets  
-  - Ensemble Learning: simple averaging / voting and basic stacking for incremental gains
+  - Transfer Learning: freezing, fine-tuning on datasets  
+  - Ensemble Learning: simple averaging / voting and basic stacking
 - **Model Efficiency & Evaluation**
-- **Applied NLP & Automation:** chatbot prototypes (Telegram / WhatsApp style), simple knowledge delivery flows.
-- **Reproducibility:** organized folders, requirements pinning, Git versioning, minimal notes on environment + dataset versions. Using GCP occasionally for running heavier notebooks.
+- **Applied NLP & Automation:** chatbot prototypes Telegram / WhatsApp), simple knowledge delivery flows.
+- **Reproducibility:** organized folders, requirements pinning, Git versioning. Using GCP occasionally for running heavier notebooks.
 
 ---
 
@@ -40,14 +40,14 @@
 
 | Domain | Tools / Frameworks |
 |--------|--------------------|
-| Languages | Python |
-| Deep Learning | PyTorch · TensorFlow · scikit-learn |
+| Languages | Python · C++ (Data Structure) · R (Secondary, Statistic Purpose) |
+| Deep Learning | PyTorch · TensorFlow · Scikit-learn · Keras |
 | LLM / NLP | Hugging Face Transformers |
 | Deployment / Serving | FastAPI (learning) · Docker · Kubernetes |
 | Cloud | Google Cloud Platform (Compute / Storage) |
 | Experimentation | Jupyter · Git |
 | Paradigms | Transfer Learning · Ensemble Learning · Sequence Modeling (RNN / LSTM / GRU) · Computer Vision|
-| Classical ML | SVM · KNN · Logistic Regression · Decision Trees / Random Forest · Etc |
+| Classic ML | SVM · KNN · Bayes Theorm · Regression · Decision Trees / Random Forest · Etc |
 
 ---
 
@@ -97,7 +97,7 @@
 
 ---
 
-## 🤝 Open to Collaborate On
+## 🤝 Open to Collaborate
 
 - Develop neural network architecture
 - Computer vision (detection, etc)
@@ -125,7 +125,7 @@
 ---
 
 <p align="center" style="color:#523254;">
-  <em>“Stay curious. Build and iterate.”</em>
+  <em>“Stay curious.”</em>
 </p>
 
 <p align="center">
