@@ -78,10 +78,6 @@
   <img src="https://streak-stats.demolab.com?user=whannajrun&hide_border=true&background=F9F4FA&ring=D8A7B1&fire=D8A7B1&currStreakLabel=523254&sideNums=523254&sideLabels=6F6880&dates=6F6880" alt="Contribution Streak"/>
 </p>
 
-<p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=whannajrun&bg_color=F9F4FA&color=523254&line=D8A7B1&point=523254&area=true&hide_border=true" alt="Activity Graph"/>
-</p>
-
 </div>
 
 ---
