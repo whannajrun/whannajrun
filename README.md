@@ -16,7 +16,7 @@
 
 ---
 
-> “The future belongs to the dedicated and the consistent one.”
+> “Future belongs to the dedicated and the consistent one.”
 
 ---
 
