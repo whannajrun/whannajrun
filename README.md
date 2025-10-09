@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <em style="color:#523254;">AI • Machine Learning • Deep Learning • LLM Enthusiast</em><br/>
+  <em style="color:#523254;">Artificial Intelligence • Machine Learning • Deep Learning • Generative AI/Large Language Model Enthusiast</em><br/>
   <strong style="color:#3A203F;">Modern neural network & transformer architectures, applied sequence & vision modeling, and reproducible experimentation.</strong><br/>
   <sub style="color:#6F6880;">From traditional to advanced; yes, I learn it all.</sub>
 </p>
@@ -23,15 +23,15 @@
 ## 🧠 What I’m Into
 
 - **Large Language Models & Transformer Spectrum:** BERT / RoBERTa (encoder), GPT (decoder), T5 / BART (encoder–decoder), distilled / compact models (DistilBERT, ALBERT). Currently learning parameter‑efficient methods (prompting) and simple RAG setups (testing chunk sizes + embedding choices).
-- **Traditional Machine Learning Foundations:** SVM, KNN, regression (Linear, Multiple, Logistic), decision trees, random Forest, etc. I still use these for baselines before moving to deep models.
+- **Traditional Machine Learning Foundations:** Support Vector Machine,  K-Nearest Neighbor, Regression Models (Linear, Multiple, Logistic), Decision Trees, Random Forest, etc. I still use these for baselines before moving to deep learning/generative AI models.
 - **Deep Learning Practice:**  
-  - Computer Vision: image classification tasks (CNN), object detection (YOLO), augmentations (Keras), annotations (Roboflow), transfer learning on data  
+  - Computer Vision: Image classification tasks (CNN), object detection (YOLO), augmentations (Keras), annotations (Roboflow), transfer learning on data  
   - Neural Network architecture in general
-  - Sequence Modeling: RNN, LSTM, BiLSTM, GRU, Bidirectional GRU comparisons 
-  - Transfer Learning: freezing, fine-tuning on datasets  
-  - Ensemble Learning: simple averaging / voting and basic stacking
+  - Sequence Modeling: RNN, LSTM, BiLSTM, GRU, Bidirectional GRU (Sentiment analysis, recommendation system, summarization, etc)
+  - Transfer Learning: Freezing layers, fine-tuning on datasets  
+  - Ensemble Learning: Averaging / voting and basic stacking
 - **Model Efficiency & Evaluation**
-- **Applied NLP & Automation:** chatbot prototypes Telegram / WhatsApp), simple knowledge delivery flows.
+- **Applied NLP & Automation:** Chatbot prototypes Telegram/WhatsApp), simple knowledge delivery flows.
 - **Reproducibility:** organized folders, requirements pinning, Git versioning. Using GCP occasionally for running heavier notebooks.
 
 ---
@@ -44,10 +44,10 @@
 | Deep Learning | PyTorch · TensorFlow · Scikit-learn · Keras |
 | LLM / NLP | Hugging Face Transformers |
 | Deployment / Serving | FastAPI (learning) · Docker · Kubernetes |
-| Cloud | Google Cloud Platform (Compute / Storage) |
+| Cloud | Google Cloud Platform (Compute/Storage) |
 | Experimentation | Jupyter · Git |
 | Paradigms | Transfer Learning · Ensemble Learning · Sequence Modeling (RNN / LSTM / GRU) · Computer Vision|
-| Classic ML | SVM · KNN · Bayes Theorm · Regression · Decision Trees / Random Forest · Etc |
+| Classic ML | SVM · KNN · Bayes Theorm · Regression Models · Decision Trees / Random Forest · Etc |
 
 ---
 
@@ -104,7 +104,7 @@
 - LLM evaluation & lightweight tuning
 - Retrieval + prompt experiments (RAG)
 - Ensemble / transfer approaches on datasets  
-- Indonesian-language NLP 
+- English & Indonesian-language NLP 
 
 ---
 
